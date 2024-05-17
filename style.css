@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    padding: 10px;
+    margin-left: 70px;
+}
+
+#start {
+
+
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue';
+    color: rgb(224, 98, 176);
+    margin-left: 350px;
+}
+
+#end {
+    margin-left: 150px;
+    text-align: center;
+
+}
+
+td.orange {
+    background-color: rgb(243, 145, 109);
+    border: 1px solid white;
+    ;
+}
+
+td.grey {
+    background-color: rgb(190, 188, 188);
+    border: 1px solid white;
+    ;
+}
+
+td.pink {
+    background-color: rgb(238, 146, 192);
+    border: 1px solid white;
+}
+
+td.blue {
+    background-color: rgb(169, 216, 238);
+    border: 1px solid white;
+    ;
+}
+
+td.yellow {
+    background-color: rgb(240, 240, 139);
+    border: 1px solid white;
+    ;
+}
+
+td.white {
+    background-color: white;
+    border: 1px solid white;
+    ;
+}
+
+td.lightpink {
+    background-color: pink;
+    border: 1px solid white;
+    ;
+}
+
+td.green {
+    background-color: rgb(195, 233, 139);
+    border: 1px solid white;
+    ;
+}
+
+td.brown {
+    background-color: rgb(245, 176, 87);
+    border: 1px solid white;
+    ;
+}
+
+td.blanchedalmond {
+    background-color: rgb(245, 212, 163);
+    border: 1px solid white;
+    ;
+}
